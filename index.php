@@ -10,6 +10,7 @@
         <title>Главная страница блога</title>
 		<title>Главная страница блога2</title>
 		<title>Главная страница блога3</title>
+		<title>Главная страница блога3</title>
     </head>
     <body>
 <div id="center_site">
